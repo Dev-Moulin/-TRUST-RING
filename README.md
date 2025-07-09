@@ -1,4 +1,4 @@
-# -TRUST-RING
+# $TRUST-RING
 
 
 L'idée est de donner la possibilité de sécuriser les utilisateurs de bagues type Tamgen, car personne ne souhaite se balader et montrer fièrement une bague crypto qui peut contenir les économies d'une vie.  
