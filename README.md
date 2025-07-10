@@ -133,3 +133,7 @@ desoler pour l'image GPT ultra réaliste haha:
     - NFC/emp → ajouté, mais moindre impact
         
     - Autonomie totale ≈ **6–9 mois** réalistes
+
+émis le 09/07/2025
+horodaté le 10/07/2025
+P.Moulin
